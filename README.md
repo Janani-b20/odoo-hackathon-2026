@@ -19,3 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # odoo-hackathon-2026
 >>>>>>> 7e348c170b45e4fd0fdfbadf6e4433875ec8f5c5
+---
+
+## 🎥 Project Demo Video
+
+Watch the complete working demonstration of the Dayflow HRMS application here:
+
+👉 **[Click to View Demo Video](https://github.com/Janani-b20/odoo-hackathon-2026/issues/1)**
